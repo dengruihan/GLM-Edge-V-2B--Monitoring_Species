@@ -22,13 +22,13 @@ Built with GLM-Edge
 该项目由2024-2025届CTB（China Thinks Big）比赛，”影视旋风“小队的创新项目发展而来，我们小队奋斗半年，最终产出了这样一个项目，我将会把我们在比赛期间内所完成的部分保存在本仓库的”Original“文件夹，保留一份我们的青春回忆以及奋斗历史。在这里感谢与我并肩作战的老师及同学们：Jie, Felcia, Alice, Carl, Robin。
 
 ## 项目更新
-- 2025年5月：上传了```app.py```和```information.py```，替换了了其中的文件路径，使用中文提示
+- 2025年5月：上传了```app.py```和```information.py```，替换了其中的文件路径，增加中文注释
 - 2025年4月：上传```original```文件，该源文件直接复制自CTB竞赛时期的电脑文件夹
 
 ## 测试平台
-|       CPU      |          显卡           |      内存     |
-|:--------------:|:----------------------:|:------------:|
-|    E5-2678V3   |   Nvdia 2080Ti 22G*2   | 32G 2133Mhz*8|
+|       CPU      |          显卡           |      内存     |    操作系统   |
+|:--------------:|:----------------------:|:------------:|:------------:|
+|    E5-2678V3   |   Nvdia 2080Ti 22G*2   | 32G 2133Mhz*8|   Windows 10 |
 
 
 ## Quick Start
@@ -36,7 +36,10 @@ Built with GLM-Edge
 按照测试，只运行demo需空闲内存15GB，GPU显存3GB
 
 ### 环境安装
-使用 pip 安装依赖：pip install -r requirements.txt
+使用 pip 安装依赖
+```shell
+pip install -r requirements.txt
+```
 
 ### 从本地加载模型
 原始的模型应该从[🤗 Huggingface](https://huggingface.co/THUDM/glm-edge-1.5b-chat)下载
