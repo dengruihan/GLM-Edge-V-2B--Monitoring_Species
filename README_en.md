@@ -23,8 +23,9 @@ This project originated from the collaborative innovation initiative of 影视�
 
 ## NEWS📰
 (Year/month/date)
-- 2025.5：upload```app.py```and```information.py```, Replace the path in these files, add Chinese annotation
-- 2025.4：upload```original```folder, This original files copy directly from the computer which is working during the CTB journey.
+- 2025.6.19: upload English Readme
+- 2025.5: upload```app.py```and```information.py```, Replace the path in these files, add Chinese annotation
+- 2025.4: upload```original```folder, This original files copy directly from the computer which is working during the CTB journey.
 
 ## Test Platform
 |       CPU      |          GPU           |      RAM     |      OS      |
