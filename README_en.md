@@ -14,7 +14,7 @@ or personal phone number：18368725059
 If author didn't reply you in working email, please consider the other ways
 </p>
 
-*用 [中文]阅读此文(README.md).*
+*用 [中文](README.md)阅读此文.*
 
 ## 引言
 这是一个基于由智谱AI开源的端侧多模态大模型GLM-Edge-V-2b的福寿螺卵自动统计系统
