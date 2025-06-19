@@ -14,6 +14,8 @@ Built with GLM-Edge
 工作邮箱不一定联系得上，如果没有及时回复请考虑另外的联系方式
 </p>
 
+*Read this in [English](README_en.md).*
+
 ## 引言
 这是一个基于由智谱AI开源的端侧多模态大模型GLM-Edge-V-2b的福寿螺卵自动统计系统
 本仓库的所有者为该项目的主要开发人员
